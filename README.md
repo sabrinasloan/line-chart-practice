@@ -1,6 +1,6 @@
 # Annotated Line Chart with Highcharts
 
-![Annotated line chart](./annotated-line-example.png)
+![Annotated line chart](./line-chart.png)
 
 ## Demo
 https://sabrinasloan.github.io/line-chart-practice/
